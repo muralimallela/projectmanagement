@@ -99,7 +99,7 @@
 				<fieldset class="form-group">
 					<label>Role</label> <input type="text"
 						value="<c:out value='${Participants.role}' />"
-						class="form-control" name="Email">
+						class="form-control" name="role">
 				</fieldset>
 
 				<button type="submit" id="submitBtn" class="btn btn-success">Save</button>
